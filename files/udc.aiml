@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  
+
+<category>
+    <pattern>Hey 
+</pattern>
+    <template>Hey I  am talkietwig powered by AI,Here to help you,</template>
+</category>
+
+</aiml>
